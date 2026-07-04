@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Feliz Cumpleaños ❤️</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- FLORES -->
+
+<div id="petals"></div>
+
+<!-- ===========================
+HERO
+=========================== -->
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1 class="main-title">
+
+Feliz Cumpleaños ❤️
+
+</h1>
+
+<p class="subtitle">
+
+Hoy quiero regalarte algo que permanecerá aquí para siempre.
+
+</p>
+
+<div class="birthday-box">
+
+<h2>
+
+🎂 17 años
+
+</h2>
+
+<p>
+
+Gracias por existir.
+
+</p>
+
+</div>
+
+<!-- SOBRE -->
+
+<div class="envelope-container">
+
+<div class="envelope" id="envelope">
+
+<!-- CARTA -->
+
+<div class="letter" id="letter">
+
+<div class="paper">
+
+<h2>
+
+Para Ti ❤️
+
+</h2>
+
+<p>
+
+Hay personas que llegan para cambiar una vida...
+
+Tú cambiaste la mía.
+
+</p>
+
+</div>
+
+</div>
+
+<!-- INTERIOR -->
+
+<div class="inside"></div>
+
+<!-- TAPA -->
+
+<div class="flap" id="flap"></div>
+
+<!-- FRENTE -->
+
+<div class="front"></div>
+
+<!-- SELLO -->
+
+<div class="seal" id="seal">
+
+❤️
+
+</div>
+
+</div>
+
+</div>
+
+<p class="hint">
+
+Haz clic sobre el sobre 💌
+
+</p>
+
+</div>
+
+</section>
+
+<!-- ===========================
+CARTA 1
+=========================== -->
+
+<section class="love-letter hidden">
+
+<div class="letter-container">
+
+<h2 class="letter-title">
+
+Feliz cumpleaños, mi amor ❤️
+
+</h2>
+
+<div class="letter-text">
+
+<p>
+
+<strong>Feliz cumpleaños, mi amor. ❤️</strong>
+
+</p>
+
+<p>
+
+Hoy celebramos un año más de tu vida, un año más de la increíble persona que eres. Muchas felicidades por estos 17 años y por seguir adelante con esa fortaleza que tanto admiro.
+
+</p>
+
+<p>
+
+Sé que el camino no siempre ha sido fácil y que has enfrentado momentos difíciles, pero aun así nunca has dejado de luchar, y eso es una de las muchas razones por las que me enamoro de ti cada día.
+
+</p>
+
+<p>
+
+Hoy quiero recordarte lo especial que eres para mí y lo importante que eres para todas las personas que tienen la fortuna de conocerte.
+
+</p>
+
+<p>
+
+Tu sonrisa, tu forma de ver el mundo y tu corazón hacen que todo a tu alrededor sea un lugar mejor.
+
+</p>
+
+<p>
+
+Siempre serás el amor de mi vida.
+
+Por eso quise crear esta página: para dejar un pequeño pedacito de nuestro amor inmortalizado y recordarte que, sin importar cuánto pase el tiempo, siempre habrá un lugar donde puedas volver y encontrar todo lo que siento por ti.
+
+</p>
+
+<p>
+
+Felices 17 años, mi amor.
+
+Y felices mis ojos por tener el privilegio de verte crecer, cumplir tus sueños y acompañarte en cada paso de tu camino.
+
+</p>
+
+<div class="signature">
+
+Con todo mi amor ❤️
+
+<br>
+
+<b>César</b>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ===========================
+ÁLBUM
+=========================== -->
+
+<section class="gallery hidden">
+
+<h2 class="section-title">
+
+Nuestros Recuerdos 📸
+
+</h2>
+
+<div class="scrapbook">
+
+<div class="polaroid p1">
+
+<img src="IMG/IMG1.jpeg">
+
+<p>
+
+"Amar no es mirarse el uno al otro; es mirar juntos en la misma dirección."
+
+<br>
+
+— Antoine de Saint-Exupéry
+
+</p>
+
+</div>
+
+<div class="polaroid p2">
+
+<img src="IMG/IMG2.jpeg">
+
+<p>
+
+"Donde reina el amor, sobran las leyes."
+
+<br>
+
+— Platón
+
+</p>
+
+</div>
+
+<div class="polaroid p3">
+
+<img src="IMG/IMG3.jpeg">
+
+<p>
+
+"El amor está compuesto por una sola alma que habita en dos cuerpos."
+
+<br>
+
+— Aristóteles
+
+</p>
+
+</div>
+
+<div class="polaroid p4">
+
+<img src="IMG/IMG4.jpeg">
+
+<p>
+
+"Si sé lo que es el amor, es gracias a ti."
+
+<br>
+
+— Hermann Hesse
+
+</p>
+
+</div>
+
+<div class="polaroid p5">
+
+<img src="IMG/IMG5.jpeg">
+
+<p>
+
+"La medida del amor es amar sin medida."
+
+<br>
+
+— San Agustín
+
+</p>
+
+</div>
+<div class="polaroid p6">
+
+    <img src="IMG/IMG6.jpeg" alt="Recuerdo 6">
+
+    <p>
+
+        "El amor es la fuerza más humilde, pero la más poderosa."
+
+        <br>
+
+        — Mahatma Gandhi
+
+    </p>
+
+</div>
+
+<div class="polaroid p7">
+
+    <img src="IMG/IMG7.jpeg" alt="Recuerdo 7">
+
+    <p>
+
+        "No hay remedio para el amor sino amar más."
+
+        <br>
+
+        — Henry David Thoreau
+
+    </p>
+
+</div>
+
+<div class="polaroid p8">
+
+    <img src="IMG/IMG8.jpeg" alt="Recuerdo 8">
+
+    <p>
+
+        "El amor es la poesía de los sentidos."
+
+        <br>
+
+        — Honoré de Balzac
+
+    </p>
+
+</div>
+
+<div class="polaroid p9">
+
+    <img src="IMG/IMG9.jpeg" alt="Recuerdo 9">
+
+    <p>
+
+        "El verdadero amor no tiene final."
+
+        <br>
+
+        — Richard Bach
+
+    </p>
+
+</div>
+
+</div>
+
+</section>
+
+<!--==========================
+MÚSICA
+===========================-->
+
+<section class="songs hidden">
+
+    <h2 class="section-title">
+
+        Canciones que me recuerdan a ti 🎵
+
+    </h2>
+
+    <p class="songs-subtitle">
+
+        Cada una de estas canciones me hace pensar en nosotros.
+
+    </p>
+
+    <div class="music-grid">
+
+        <div class="music-card">
+            <img id="cover1" class="album-cover">
+            <h3>Te lo pido por favor</h3>
+            <span>Jaguares</span>
+            <a id="link1" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover2" class="album-cover">
+            <h3>And I Love Her</h3>
+            <span>The Beatles</span>
+            <a id="link2" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover3" class="album-cover">
+            <h3>Tus Ojos</h3>
+            <span>José José</span>
+            <a id="link3" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover4" class="album-cover">
+            <h3>Solo Tú y Yo</h3>
+            <span>José José</span>
+            <a id="link4" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover5" class="album-cover">
+            <h3>How Deep Is Your Love</h3>
+            <span>Bee Gees</span>
+            <a id="link5" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover6" class="album-cover">
+            <h3>Luz de Día</h3>
+            <span>Enanitos Verdes</span>
+            <a id="link6" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover7" class="album-cover">
+            <h3>No Puedo Vivir Sin Ti</h3>
+            <span>Los Ronaldos</span>
+            <a id="link7" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover8" class="album-cover">
+            <h3>La Costa del Silencio</h3>
+            <span>Mägo de Oz</span>
+            <a id="link8" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover9" class="album-cover">
+            <h3>Luz de Día</h3>
+            <span>Enanitos Verdes</span>
+            <a id="link9" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover10" class="album-cover">
+            <h3>Quisiera Ser Alcohol</h3>
+            <span>Caifanes</span>
+            <a id="link10" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover11" class="album-cover">
+            <h3>Beso</h3>
+            <span>Josean Log</span>
+            <a id="link11" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover12" class="album-cover">
+            <h3>Eres</h3>
+            <span>Café Tacvba</span>
+            <a id="link12" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover13" class="album-cover">
+            <h3>Brillas</h3>
+            <span>León Larregui</span>
+            <a id="link13" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover14" class="album-cover">
+            <h3>Amor de Siempre</h3>
+            <span>Cuco</span>
+            <a id="link14" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover15" class="album-cover">
+            <h3>Kumbala</h3>
+            <span>Maldita Vecindad</span>
+            <a id="link15" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover16" class="album-cover">
+            <h3>Gone, Gone, Gone</h3>
+            <span>Phillip Phillips</span>
+            <a id="link16" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+        <div class="music-card">
+            <img id="cover17" class="album-cover">
+            <h3>Stand By Me</h3>
+            <span>Ben E. King</span>
+            <a id="link17" target="_blank">Escuchar en Spotify</a>
+        </div>
+
+    </div>
+
+</section>
+<!--==========================
+SEGUNDO SOBRE
+===========================-->
+
+<section class="final-envelope hidden">
+
+    <h2 class="section-title">
+
+        Antes de irte... 💌
+
+    </h2>
+
+    <p class="songs-subtitle">
+
+        Todavía tengo una última cosa que decirte.
+
+    </p>
+
+    <div class="mini-envelope-container">
+
+        <div class="mini-envelope" id="miniEnvelope">
+
+            <div class="mini-letter-preview">
+
+                ❤️
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!--==========================
+CARTA FINAL
+===========================-->
+
+<section class="final-letter hidden" id="finalLetter">
+
+    <div class="letter-container">
+
+        <h2 class="letter-title">
+
+            Una última carta ❤️
+
+        </h2>
+
+        <div class="letter-text">
+
+            <p>
+
+                <strong>
+
+                    17 añitos cumple hoy mi princesita hermosa. ❤️
+
+                </strong>
+
+            </p>
+
+            <p>
+
+                Hoy es un día para celebrarte, para agradecer que existes y para recordarte la increíble mujer en la que te estás convirtiendo.
+
+            </p>
+
+            <p>
+
+                Te amo con todo mi corazón.
+
+            </p>
+
+            <p>
+
+                Sé que, a veces, las cosas no me salen como las planeo, pero hay algo que nunca cambiará:
+
+                aquí estoy, con todo mi amor, para recordarte lo hermosa que eres, lo mucho que vales y que mereces todas las cosas bonitas que la vida pueda ofrecerte.
+
+            </p>
+
+            <p>
+
+                Quiero que nunca olvides que, pase lo que pase, tu novio jamás te dejará sola ni dejará de creer en ti.
+
+            </p>
+
+            <p>
+
+                Siempre voy a estar aquí para apoyarte, cuidarte y celebrar cada uno de tus sueños como si fueran míos.
+
+            </p>
+
+            <p>
+
+                Feliz cumpleaños, mi amor.
+
+                Que hoy, mañana y todos los días encuentres motivos para sonreír, porque tu sonrisa es uno de los regalos más bonitos que la vida me ha dado. ❤️
+
+            </p>
+
+            <div class="signature">
+
+                Gracias por permitirme amarte.
+
+                <br>
+
+                ❤️ César ❤️
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!--==========================
+FINAL
+===========================-->
+
+<section class="ending hidden">
+
+    <div class="ending-content">
+
+        <div class="moon">
+
+            🌙
+
+        </div>
+
+        <h2>
+
+            Te amo infinitamente ❤️
+
+        </h2>
+
+        <p>
+
+            Gracias por hacer de mi vida un lugar mucho más bonito.
+
+        </p>
+
+        <p>
+
+            Feliz cumpleaños, mi princesa hermosa.
+
+        </p>
+
+        <div class="heart-line">
+
+            ❤️ ❤️ ❤️
+
+        </div>
+
+    </div>
+
+</section>
+
+<!--==========================
+MENSAJE OCULTO
+===========================-->
+
+<div id="secretMessage">
+
+    PD: Gracias por existir. ❤️
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
